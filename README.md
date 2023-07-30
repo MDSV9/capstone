@@ -22,17 +22,4 @@ With the increasing frequency of attacks on private networks, a simple ML model 
 
 ## Contact Me:
 
-Thank you for showing interest in my Capstone project! If you'd like to discuss my findings, offer suggestions, or chat about related topics, feel free to reach out to me at reach out to me <a href="javascript:void(0)" onclick="copyToClipboard('moisesdsvera+capstone@gmail.com')">via email</a> or [linkedin](https://www.linkedin.com/in/moisessosav). Your feedback is highly appreciated!
-
-Thank you for reading!
-
-<script>
-  function copyToClipboard(text) {
-    var dummy = document.createElement("textarea");
-    document.body.appendChild(dummy);
-    dummy.value = text;
-    dummy.select();
-    document.execCommand("copy");
-    document.body.removeChild(dummy);
-  }
-</script>
+Thank you for showing interest in my Capstone project! If you'd like to discuss my findings, offer suggestions, or chat about related topics, feel free to [reach out to me via email](mailto:moisesdsvera+capstone@example.com).
