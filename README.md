@@ -31,9 +31,12 @@ Ensure the following directories exist in the root of the project:
 ## Anaconda Environment:
 
 An Anaconda environment file (`environment.yml`) is included in the repository. It contains all the necessary dependencies for running the Jupyter notebooks within this project. To set up the environment, use the following command:
+
 `conda env create -f environment.yml`
+
 After creating the environment, activate it before running the notebooks:
-`conda activateCapstone_env`
+
+`conda activate Capstone_env`
 
 ## Contact Me: 
 
