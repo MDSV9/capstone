@@ -22,4 +22,4 @@ With the increasing frequency of attacks on private networks, a simple ML model 
 
 ## Contact Me:
 
-Thank you for showing interest in my Capstone project! If you'd like to discuss my findings, offer suggestions, or chat about related topics, feel free to [reach out to me via email](mailto:moisesdsvera+capstone@example.com).
+Thank you for showing interest in my Capstone project! If you'd like to discuss my findings, offer suggestions, or chat about related topics, feel free to [reach out to me via email](mailto:moisesdsvera+capstone@gmail.com).
