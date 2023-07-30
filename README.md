@@ -15,7 +15,8 @@ With the increasing frequency of attacks on private networks, a simple ML model 
 
 ## Resources:
 
-- [Data Collection](https://drive.google.com/drive/folders/1z0_TUUPjnYUQ5X1e-gOQl3xVd3b7gquG?usp=sharing): Link to the original dataset used.
+- [Data Collection](https://drive.google.com/drive/folders/1z0_TUUPjnYUQ5X1e-gOQl3xVd3b7gquG?usp=sharing): Link to the dataset used.
+- [Original Dataset](https://www.unb.ca/cic/datasets/ids-2017.html): Link to the original dirty dataset. (Explanations on the Final Capstone Presentation and Data Loading and Cleaning Notebook)
 - [Data Dictionary](https://github.com/MDSV9/capstone/blob/a5fe55f857adb9b0bcd7ba43d08d54ab39bd78c6/data-dict.pdf): PDF document explaining the data attributes.
 - [Final Capstone Presentation](https://drive.google.com/file/d/1MsTl-ni7F6vQhnJILQsl6QTOkjTfItjM/view?usp=drive_link): Google Drive link to the final project presentation.
 
